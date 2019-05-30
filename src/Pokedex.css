@@ -1,0 +1,6 @@
+.Pokedex-cards{
+  display: flex;
+  justify-content: space-evenly;
+  /* Spaceing evenly and then saying its okay to go over to next line with wrap */
+  flex-wrap: wrap;
+}
